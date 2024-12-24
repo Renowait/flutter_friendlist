@@ -52,7 +52,7 @@ class Homepage extends StatelessWidget {
       "name": "คริสเตียนโน โรนัลโด้",
       "nickname": "บักโด้",
       "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSI1j-rO5YY889jxE1qA8NTq0ucTY9QdmF2sRl5Aje--VcWfFXZltdU9HS5srCZz5xa5C1HqTEgVbINBxG8-f2DQdBmr1F6op89D5MaRdn9gQKAboUes1DVIVXheKCXQM5s24mZ0XopSg",
-      "description": "ชอบเตะบอล"
+      "description": "ชอบเตะบอล และชอบการแข่งขัน"
     },
     {
       "id": 8,
