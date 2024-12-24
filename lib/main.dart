@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_applistfriend/homepage.dart';
-import 'package:flutter_applistfriend/product_detail.dart';
+import 'package:flutter_applistfriend/friend_detail.dart';
 
 
 void main() {
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       initialRoute: '/',
       routes: {
         '/': (context) => const Homepage(),
-        '/ptd_dt': (context) => const ProductDetail(),
+        '/ptd_dt': (context) => const FriendDetail()
       },
     );
   }
